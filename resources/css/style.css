@@ -1,22 +1,30 @@
 html {
   font-family: Verdana;
-  font-weight: normal;
   text-align: center;
   background-color: black;
 }
 
 h1 {
+  font-weight: normal;
   font-size: 50px;
   color: white;
 }
 
+h2 {
+  font-size: 21px;
+  color: gray;
+}
 
 .link {
   color: aquamarine;
   font-size: 16px;
 
+.2 {
+  font-weight: 300;
+  font-size: 42px;
+}
 
-
-h2 {
-  color:
+.copyright {
+  text-align: right;
+  color: gray;
 }
